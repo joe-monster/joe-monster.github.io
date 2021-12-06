@@ -144,7 +144,7 @@
 
 
 
-
+<link rel="stylesheet" href="https://drnp.github.io/assets/css/style.css">
 
 <script type="text/javascript" src="https://joe-monster.github.io/resume/resource/jquery-3.6.0.min.js"></script>
 <script type="text/javascript">
