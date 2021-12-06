@@ -1,12 +1,3 @@
-<script type="text/javascript" src="https://joe-monster.github.io/resume/resource/jquery-3.6.0.min.js">
-<script type="text/javascript">
-	$(document).ready(function() {
-		$('a[href^="http"]').each(function() {
-			$(this).attr('target', '_blank');
-		});
-	});
-</script>
-
 # 简历 - 乔怡轩 （互联网 - 技术 / golang开发）
 手机：18600958505（微信同号）	Email：18600958505@163.com
 
@@ -151,3 +142,15 @@
 - [基于公司级别的工单流转系统的设计分享（思维导图）] (https://joe-monster.github.io/resume/resource/workflow.png)
 
 
+
+
+
+
+<script type="text/javascript" src="https://joe-monster.github.io/resume/resource/jquery-3.6.0.min.js"></script>
+<script type="text/javascript">
+	$(document).ready(function() {
+		$('a[href^="http"]').each(function() {
+			$(this).attr('target', '_blank');
+		});
+	});
+</script>
