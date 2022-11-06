@@ -100,18 +100,3 @@
 
 ##### 个人工作及成果
 1. 参与研发中心成长型休闲页游产品《大明浮生记》的后端功能、运营活动开发及bug修复等（**在产品层面提出过很有创意的想法，被制作人高度采纳**）。
-
-
-<!--## 备注
-### 关于参与开源项目
-- 苦逼加班狗一枚，只学轮子用轮子，没时间研究造轮子，所以没有参与过什么牛逼plus的开源项目。有写过各别小轮子确实具备作为开源软件发布的素质，但都是基于公司业务需求开发，公司代码不好个人公开。-->
-
-
-<script type="text/javascript" src="https://joe-monster.github.io/resume/resource/jquery-3.6.0.min.js"></script>
-<script type="text/javascript">
-	$(document).ready(function() {
-		$('a[href^="http"]').each(function() {
-			$(this).attr('target', '_blank');
-		});
-	});
-</script>
